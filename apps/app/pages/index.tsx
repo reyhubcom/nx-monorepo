@@ -388,7 +388,7 @@ export function Index() {
         </div>
 
         <p id="love">
-          Carefully crafted with
+          Designed by Rey with
           <svg
             fill="currentColor"
             stroke="none"
