@@ -69,7 +69,7 @@ export function Index() {
                 />
               </svg>
               <span>
-                Documentation
+                Staking Coins
                 <span> Everything is in there </span>
               </span>
               <svg
