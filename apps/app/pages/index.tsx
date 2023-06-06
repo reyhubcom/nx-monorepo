@@ -9,8 +9,8 @@ export function Index() {
       <div className="container">
         <div id="welcome">
           <h1>
-            <span> Hello there, </span>
-            Welcome Rey Guru 👋
+            <span> Welcome, </span>
+            To Rey Guru 👋
           </h1>
         </div>
 
@@ -48,7 +48,7 @@ export function Index() {
 
         <div id="middle-content">
           <div id="learning-materials" className="rounded shadow">
-            <h2>Validator & Delegate Coins</h2>
+            <h2>Validator & Delegate </h2>
             <a
               href="https://nx.dev/getting-started/intro?utm_source=nx-project"
               target="_blank"
