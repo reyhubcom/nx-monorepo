@@ -70,7 +70,7 @@ export function Index() {
               </svg>
               <span>
                 Osis Exchange
-                <span> Everything is in there </span>
+                <span> Limitless Crypto Exchange </span>
               </span>
               <svg
                 fill="none"
