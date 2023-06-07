@@ -73,7 +73,7 @@ export function Index() {
                 <span> Limitless Crypto Exchange </span>
               </span>
               <svg
-                fill="009900"
+                fill="009973"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -93,7 +93,7 @@ export function Index() {
               className="list-item-link"
             >
               <svg
-                fill="none"
+                fill="009973"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -110,7 +110,7 @@ export function Index() {
                 <span> Everything Is In There </span>
               </span>
               <svg
-                fill="none"
+                fill="009973"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -135,15 +135,16 @@ export function Index() {
                 fill="currentColor"
                 xmlns="http://www.w3.org/2000/svg"
               >
-                <title>YouTube</title>
-                <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" />
+                <title>DeFi</title>
+                <path  d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"
+                />
               </svg>
               <span>
-                YouTube channel
+                DeFi
                 <span> Nx Show, talks & tutorials </span>
               </span>
               <svg
-                fill="none"
+                fill="009973"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -163,7 +164,7 @@ export function Index() {
               className="list-item-link"
             >
               <svg
-                fill="none"
+                fill="009973"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -180,7 +181,7 @@ export function Index() {
                 <span> Create an app, step-by-step </span>
               </span>
               <svg
-                fill="none"
+                fill="009973"
                 stroke="currentColor"
                 viewBox="0 0 24 24"
                 xmlns="http://www.w3.org/2000/svg"
@@ -215,7 +216,7 @@ export function Index() {
                 />
               </svg>
               <span>
-                Video courses
+                Osis Store
                 <span> Nx custom courses </span>
               </span>
               <svg
@@ -264,7 +265,7 @@ export function Index() {
                 >
                   <path
                     d="M120 15V30C103.44 30 90 43.44 90 60C90 76.56 76.56 90 60 90C43.44 90 30 103.44 30 120H15C6.72 120 0 113.28 0 105V15C0 6.72 6.72 0 15 0H105C113.28 0 120 6.72 120 15Z"
-                    fill="#009900"
+                    fill="#009973"
                   />
                   <path
                     d="M120 30V105C120 113.28 113.28 120 105 120H30C30 103.44 43.44 90 60 90C76.56 90 90 76.56 90 60C90 43.44 103.44 30 120 30Z"
