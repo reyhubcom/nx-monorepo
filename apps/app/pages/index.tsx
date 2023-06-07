@@ -136,7 +136,8 @@ export function Index() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <title>DeFi</title>
-                <path  d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"
+                <path
+                  d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"
                 />
               </svg>
               <span>
@@ -217,7 +218,7 @@ export function Index() {
               </svg>
               <span>
                 Osis Store
-                <span> Nx custom courses </span>
+                <span> Premium Custom Shirts.</span>
               </span>
               <svg
                 fill="none"
@@ -238,7 +239,7 @@ export function Index() {
             <a
               id="nx-console"
               className="button-pill rounded shadow"
-              href="https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console&utm_source=nx-project"
+              href="https://www.bonfire.com/store/osis-store/"
               target="_blank"
               rel="noreferrer"
             >
