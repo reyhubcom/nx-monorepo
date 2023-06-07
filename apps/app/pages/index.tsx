@@ -10,7 +10,7 @@ export function Index() {
         <div id="welcome">
           <h1>
             <span> Welcome, </span>
-            To Rey Guru 👋
+            Osis Wiki 👋
           </h1>
         </div>
 
@@ -50,7 +50,7 @@ export function Index() {
           <div id="learning-materials" className="rounded shadow">
             <h2>Validator & Delegate </h2>
             <a
-              href="https://nx.dev/getting-started/intro?utm_source=nx-project"
+              href="https://osis.exchange"
               target="_blank"
               rel="noreferrer"
               className="list-item-link"
@@ -69,7 +69,7 @@ export function Index() {
                 />
               </svg>
               <span>
-                Staking Coins
+                Osis Exchange
                 <span> Everything is in there </span>
               </span>
               <svg
@@ -106,8 +106,8 @@ export function Index() {
                 />
               </svg>
               <span>
-                Blog
-                <span> Changelog, features & events </span>
+                Staking Coins
+                <span> Everything Is In There </span>
               </span>
               <svg
                 fill="none"
