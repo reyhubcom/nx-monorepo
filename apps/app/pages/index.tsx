@@ -251,7 +251,7 @@ export function Index() {
                 <title>Visual Studio Code</title>
                 <path
                     d="M120 15V30C103.44 30 90 43.44 90 60C90 76.56 76.56 90 60 90C43.44 90 30 103.44 30 120H15C6.72 120 0 113.28 0 105V15C0 6.72 6.72 0 15 0H105C113.28 0 120 6.72 120 15Z"
-                    fill="#006673"
+                    fill="#6600ff"
                 />
               </svg>
               <span>
