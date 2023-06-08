@@ -87,7 +87,7 @@ export function Index() {
               </svg>
             </a>
             <a
-              href="https://blog.nrwl.io/?utm_source=nx-project"
+              href="https://koji.to/k/8QBU"
               target="_blank"
               rel="noreferrer"
               className="list-item-link"
