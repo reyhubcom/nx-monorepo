@@ -234,7 +234,7 @@ export function Index() {
               </svg>
             </a>
           </div>
-          <div id="nx-cloud" className="rounded shadow">
+          <div id="other-links">
             <a
               id="nx-console"
               className="button-pill rounded shadow"
