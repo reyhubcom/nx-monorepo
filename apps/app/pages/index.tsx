@@ -238,7 +238,7 @@ export function Index() {
             <a
               id="nx-console"
               className="button-pill rounded shadow"
-              href="https://www.bonfire.com/store/osis-store/"
+              href="https://freename.io?ref=huge-olives-refuse&utm_source=clipboard"
               target="_blank"
               rel="noreferrer"
             >
@@ -255,8 +255,8 @@ export function Index() {
                 />
               </svg>
               <span>
-                Install Nx Console
-                <span>Plugin for VSCode</span>
+                Web3 Domains And
+                <span> TLDs Yours, Forever</span>
               </span>
             </a>
             <div id="nx-cloud" className="rounded shadow">
