@@ -6,7 +6,7 @@ function CustomApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Rey Validator & Delegate Coins</title>
+        <title>Osis | Wiki Validator & Delegate Coins</title>
       </Head>
       <main className="app">
         <Component {...pageProps} />
