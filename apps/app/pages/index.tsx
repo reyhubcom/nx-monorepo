@@ -87,7 +87,7 @@ export function Index() {
               </svg>
             </a>
             <a
-              href="https://koji.to/k/8QBU"
+              href="https://koji.to/k/8R1C"
               target="_blank"
               rel="noreferrer"
               className="list-item-link"
