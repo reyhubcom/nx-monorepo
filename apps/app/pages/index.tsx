@@ -280,10 +280,7 @@ export function Index() {
                   />
                 </svg>
                 <h2>
-                <a
-                href="https://osis.exchange"
-                target="_blank">
-                  Osis.Exchange
+                Osis.Exchange
                   <span>Limitless Web3.0 Crypto Exchange</span>
                 </h2>
               </div>
