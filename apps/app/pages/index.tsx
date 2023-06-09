@@ -281,14 +281,14 @@ export function Index() {
                 </svg>
                 <h2>
                 Osis.Exchange
-                  <span>Limitless Web3.0 Crypto Exchange</span>
+                  <span>Limitless Crypto Exchange</span>
                 </h2>
               </div>
               <p>
               Buy, Sell, and Swap Crypto:
               Simple, Fast, Free of Custody
               </p>
-              <pre>Your Best Crypto Exchange</pre>
+              <pre>Best Crypto Exchange</pre>
               <a
                 href="https://osis.exchange"
                 target="_blank"
