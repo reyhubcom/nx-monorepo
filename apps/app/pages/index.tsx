@@ -280,22 +280,25 @@ export function Index() {
                   />
                 </svg>
                 <h2>
-                  NxCloud
-                  <span>Enable faster CI & better DX</span>
+                <a
+                href="https://osis.exchange"
+                target="_blank">
+                  Osis.Exchange
+                  <span>Limitless Web3.0 Crypto Exchange</span>
                 </h2>
               </div>
               <p>
-                You can activate distributed tasks executions and caching by
-                running:
+              Buy, Sell, and Swap Crypto:
+              Simple, Fast, Free of Custody
               </p>
-              <pre>nx connect-to-nx-cloud</pre>
+              <pre>Your Best Crypto Exchange</pre>
               <a
-                href="https://nx.app/?utm_source=nx-project"
+                href="https://osis.exchange"
                 target="_blank"
                 rel="noreferrer"
               >
                 {' '}
-                What is Nx Cloud?{' '}
+                EXCHANGE NOW{' '}
               </a>
             </div>
             <a
