@@ -288,7 +288,7 @@ export function Index() {
               Buy, Sell, and Swap Crypto:
               Simple, Fast, Free of Custody
               </p>
-              <pre>Best Crypto Exchange</pre>
+              <pre>About 5 Minute Exchange</pre>
               <a
                 href="https://osis.exchange"
                 target="_blank"
