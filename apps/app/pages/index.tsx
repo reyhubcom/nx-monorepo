@@ -106,8 +106,8 @@ export function Index() {
                 />
               </svg>
               <span>
-                Staking Coins
-                <span> Everything Is In There </span>
+                Top Web3 Wallets
+                <span> Hot Wallets & Cold Wallet</span>
               </span>
               <svg
                 fill="none"
