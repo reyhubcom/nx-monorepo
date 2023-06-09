@@ -32,7 +32,7 @@ export function Index() {
               </svg>
               <span>You&apos;re up and running</span>
             </h2>
-            <a href="#commands"> List of Links</a>
+            <a href="#commands"> What&apos;s next? </a>
           </div>
           <div className="logo-container">
             <svg
@@ -50,7 +50,7 @@ export function Index() {
           <div id="learning-materials" className="rounded shadow">
             <h2>Validator & Delegate </h2>
             <a
-              href="https://koji.to/k/8QBU"
+              href="https://osis.exchange"
               target="_blank"
               rel="noreferrer"
               className="list-item-link"
@@ -69,8 +69,8 @@ export function Index() {
                 />
               </svg>
               <span>
-                Staking Coins
-                <span> Everything Is In There</span>
+                Osis Exchange
+                <span> Limitless Crypto Exchange </span>
               </span>
               <svg
                 fill="none"
