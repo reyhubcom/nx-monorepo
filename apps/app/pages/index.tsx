@@ -178,8 +178,8 @@ export function Index() {
                 />
               </svg>
               <span>
-                Interactive tutorials
-                <span> Create an app, step-by-step </span>
+                Wallets Web3
+                <span> Hot Wallet & Cold Wallet</span>
               </span>
               <svg
                 fill="none"
